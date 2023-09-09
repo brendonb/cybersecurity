@@ -59,7 +59,8 @@ Endpoint:  <br/>
 <br />
 <br />
 <h2>Video Link to Project</h2>  <br/>
-<b>Video in progress!!!</b>
+<b>Video walk through</b>
+(https://youtu.be/udTh9LAM72o)
 </p>
 
 <!--
