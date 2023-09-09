@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-This lab project is a introduction to Cybersecurity and the implementation.
+This lab project is a introductory Cybersecurity demo.
 <br />
 
 
